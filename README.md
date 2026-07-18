@@ -1,10 +1,6 @@
-## Command-line Interface (CLI)
-
-### Markdown
-https://www.markdownguide.org/basic-syntax/
-
-### GNU Bash manual
-https://www.gnu.org/software/bash/manual/
+# Command-line Interface (CLI)
+### Fontes
++ [GNU Bash Manual](https://www.gnu.org/software/bash/manual/)
 
 ### Comandos
 * **man** - Manual ou execução de ajuda para comandos.
